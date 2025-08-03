@@ -1,2 +1,3 @@
 # Java-Project-
-Calculator
+Project Name: Calculator (Short Project)
+Submitted to:United International University
